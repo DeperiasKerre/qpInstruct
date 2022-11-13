@@ -1,4 +1,4 @@
-## Mining the Heterostructural Design and the Optoelectronic Characterustics of Quantum Cascade Lasers
+## Mining the Heterostructural Design and the Optoelectronic Characteristics of Quantum Cascade Lasers
 ### Brief Introduction to the Problem
 
 A quantum cascade laser(qcl) is a semiconductor consisting of nanometric stack of different semiconductor materials. The stacks are called heterostructures.The interaction between the different layers of materials gives the stack its opto-electronic characteristics i.e. its radiation emission behavior according to the electric current injected into the structure. The quantum cascade laser is a promising technology for industrial deployment owing to its application potential in the various domains.
