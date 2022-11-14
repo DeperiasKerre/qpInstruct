@@ -13,7 +13,7 @@ From the review of similar works [[2]](https://arxiv.org/pdf/1807.08484),[[3]](h
 
 * A text mining pipeline to extract the qcl parameters from the scientific articles (as seen from the sample developed ontology, it may not be possible to represent the data in the garph at concept level before mining it). The ontology can be visualized in neo4j by downloading the turtle file and fetching it using the neosemantics in neo4j as follows: open the neo4j web browser and type: call n10s.rdf.preview.fetch('https://raw.githubusercontent.com/jbarrasa/datasets/master/rdfstar/beatles-hs.ttl',"Turtle-star"). Remember to change the path to refer to the path to your disk. e.g "file:///D:......."
 
-* Organizing the mined properties into a dataset with all the information (authors, publication dates, reference lsit and the qcl propreties).
+* Organizing the mined properties into a dataset with all the information (authors, publication dates, reference list and the qcl propreties).
 
 * Define the schema structure in rdf* using turtle syntax. The proposed entity classes are 2 i.e a paper(which has a name, label,url as the attributes) and qcl parameter class. The qcl parameter may have subclasses i.e physical parameter(to capture the qcl thickness and the stacking property) opto-electronics parameter (to capture frequency, temperature and the power). Two major realtions are also proposed i.e cites(to indicate the references) and mentions(to capture the qcl parameter mentioned by a paper). 
 ### Next Step
