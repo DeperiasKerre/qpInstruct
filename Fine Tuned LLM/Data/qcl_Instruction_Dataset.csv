@@ -1,1 +1,7 @@
 ﻿Input,Instruction ,Output
+,"From the given input text, please extract the working temperature of the QCL semiconductor laser device.",
+,"From the given input text, please extract the lasing frequency of the QCL semiconductor laser device.",
+,"From the given input text, please extract the optical power of the QCL semiconductor laser device.",
+,"From the given input text, please extract the heterostructure of the QCL semiconductor laser device.",
+,"From the given input text, please extract the layer sequence of the QCL semiconductor laser device.",
+,"From the given input text, please extract the working mode of the QCL semiconductor laser device.",
