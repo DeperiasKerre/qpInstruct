@@ -4,13 +4,18 @@ mode, 95 K in continuous wave (cw) mode.","From the given input text, please ex
 We report terahertz quantum-cascade lasers operating predominantly at 1.90 THz with side modes as low as 1.86 THz. ,"From the given input text, please extract the lasing frequency of the QCL semiconductor laser device.",Lasing Frequency: 1.90 THz
 "In pulsed operation, the device lased up to a maximum heatsink
 temperature (Tmax) of 110 K.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.",Temperature in pulse mode: 110 K
-"~0.5 mW of peak cw power was detected
-from a single facet when collected with a Winston cone with
-a circular opening of 1.90 mm diameter and measured with
-a thermopile detector (ScienTech, model AC2500) placed adjacent
-to the cryostat window.","From the given input text, please extract the optical power of the QCL semiconductor laser device.",Peak power: 0.5 Mw
+"~0.5 mW of peak cw power was detected from a single facet when collected with a Winston cone with a circular opening of 1.90 mm diameter and measured with a thermopile detector (ScienTech, model AC2500) placed adjacent to the cryostat window.","From the given input text, please extract the optical power of the QCL semiconductor laser device.",Peak power: 0.5 mW
 "The structure, labeled OWI185-M1 (growth EA1304), was grown in GaAs/Al0.15Ga0.85As.","From the given input text, please extract the heterostructure of the QCL semiconductor laser device.",Heterostructure: GaAs/Al0.15Ga0.85As
 "Starting from the injector barrier on the left, the layer thicknesses in Å are
 49/78/23/76/32/76/52/168 with barriers indicated by bold fonts","From the given input text, please extract the layer sequence of the QCL semiconductor laser device.","
 Layer Sequence: 49/78/23/76/32/76/52/168 Å"
 "In cw operation, this device lased up to Tmax=95K.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.",Temperature in continous mode: 95 K
+"A 2.1 THz quantum cascade laser (QCL) based on a scatteringassisted
+injection and resonant-phonon depopulation design scheme is
+demonstrated.","From the given input text, please extract the lasing frequency of the QCL semiconductor laser device.",Lasing Frequency: 2.1 THz
+"The QCL is based on a four-well period implemented in the
+GaAs/Al0.15Ga0.85As material system.","From the given input text, please extract the heterostructure of the QCL semiconductor laser device.",Heterostructure: GaAs/Al0.15Ga0.85As
+"The QCL operates up to a heat-sink temperature of 144 K in pulsed-mode, which is considerably higher than that achieved for previously reported THz QCLs operating around the frequency of 2 THz.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.",Temperature in pulse mode: 144 K
+"At 46 K, the threshold current-density was measured
+as ~745 A/cm2 with a peak-power output of ~10 mW","From the given input text, please extract the optical power of the QCL semiconductor laser device.",Peak power: 10 mW
+"Starting from leftmost barrier of the period, the layer thicknesses in nm (with barriers indicated in bold-face font) are 4.24/8.48/3.11/11.02/2.54/7.91/4.24/16.67","From the given input text, please extract the layer sequence of the QCL semiconductor laser device.",Layer Sequence: 4.24/8.48/3.11/11.02/2.54/7.91/4.24/16.67 nm
