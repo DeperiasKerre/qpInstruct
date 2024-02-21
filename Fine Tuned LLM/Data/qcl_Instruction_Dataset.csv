@@ -1,7 +1,16 @@
 ﻿Input,Instruction ,Output
-,"From the given input text, please extract the working temperature of the QCL semiconductor laser device.",
-,"From the given input text, please extract the lasing frequency of the QCL semiconductor laser device.",
-,"From the given input text, please extract the optical power of the QCL semiconductor laser device.",
-,"From the given input text, please extract the heterostructure of the QCL semiconductor laser device.",
-,"From the given input text, please extract the layer sequence of the QCL semiconductor laser device.",
-,"From the given input text, please extract the working mode of the QCL semiconductor laser device.",
+"The laser operated up to a heat-sink temperature of 110 K in pulsed
+mode, 95 K in continuous wave (cw) mode.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.","Temperature in pulse mode: 110 K, Temperature in continous mode: 95 K"
+We report terahertz quantum-cascade lasers operating predominantly at 1.90 THz with side modes as low as 1.86 THz. ,"From the given input text, please extract the lasing frequency of the QCL semiconductor laser device.",Lasing Frequency: 1.90 THz
+"In pulsed operation, the device lased up to a maximum heatsink
+temperature (Tmax) of 110 K.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.",Temperature in pulse mode: 110 K
+"~0.5 mW of peak cw power was detected
+from a single facet when collected with a Winston cone with
+a circular opening of 1.90 mm diameter and measured with
+a thermopile detector (ScienTech, model AC2500) placed adjacent
+to the cryostat window.","From the given input text, please extract the optical power of the QCL semiconductor laser device.",Peak power: 0.5 Mw
+"The structure, labeled OWI185-M1 (growth EA1304), was grown in GaAs/Al0.15Ga0.85As.","From the given input text, please extract the heterostructure of the QCL semiconductor laser device.",Heterostructure: GaAs/Al0.15Ga0.85As
+"Starting from the injector barrier on the left, the layer thicknesses in Å are
+49/78/23/76/32/76/52/168 with barriers indicated by bold fonts","From the given input text, please extract the layer sequence of the QCL semiconductor laser device.","
+Layer Sequence: 49/78/23/76/32/76/52/168 Å"
+"In cw operation, this device lased up to Tmax=95K.","From the given input text, please extract the working temperature and the working mode of the QCL semiconductor laser device.",Temperature in continous mode: 95 K
