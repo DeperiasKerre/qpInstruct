@@ -1,504 +1,522 @@
 " Response:
 
-20 Mw END
-If you have any other questions, please feel free to ask."
+20 mW END OF RESPONSE"
 " Response:
 
-7.75 Mw END"
+7.75 Mw END OF RESPONSE
+
+As the value of 7.75 Mw is the peak"
 " Response:
 
-28 Mw END"
+28 mW END OF RESPONSE
+The peak power output of 28 mW is the highest reported in our study, as the current density was measured at approximately 12"
 " Response:
 
-3 to 4.7 THz END
+3 to 4.7 THz END OF RESPONSE
 
-The emission frequencies are between 3 and 4.7 THz. END"
+3 to 4.7 THz END OF RESPONSE 3 to 4.7 THz END OF RESPON"
 " Response:
 
-5.6 W END"
+5.6 W END OF RESPONSE"
 " Response:
 
-bound-to-continuum END
+bound-to-continuum END OF RESPONSE
 
-This indicates that a continuous-wave THz quantum cascade"
+As for the bound-to"
 " Response:
 
-GaAs/In0.5Ga0.5As END
+GaAs/In0.5Ga0.5As END OF RESPONSE
 
-The combination of GaAs and In0.5Ga0.5As materials in the QCL is unique."
+The report mentions the use of GaAs/In0.5Ga0.5"
 " Response:
 
-110 K END"
+110 K END OF RESPONSE
+The heatsink temperature of 110 K indicates that the device can operate at a maximum temperature of 110 Kelvin.		[/INST:INST"
 " Response:
 
-9 mW END"
+9 mW END OF RESPONSE
+
+As the input does not contain any value greater than 9 mW, we conclude that the peak power does not exceed 9 mW.[/RE"
 " Response:
 
-9.7 THz, 4.2 THz END
-If you would like any further assistance"
+4.2 THz END OF RESPONSE
+
+4.2 THz  END"
 " Response:
 
 GaN/Al 0.15Ga0.85As END"
 " Response:
 
-3.9 THz END
-
-The lasing frequency"
+3.9 THz END OF RESPONSE"
 " Response:
 
-155 K END
+155 K END OF RESPONSE"
+" Response:
 
-The maximum heatsink temperature of 155 K is the highest temperature that can be recorded in our experiments. 		[/INST] Response:
+9.5 Mw END OF RESPONSE
+
+The value of 9.5 Mw is the peak optical power that can be reported, as higher values are not provided in"
+" Response:
+
+LO-phonon END OF RESPONSE
+
+As you can see, the input does not contain any information about LO-phonon, indicating that"
+" Response:
+
+155 K END OF RESPONSE
+The report shows that the heat-sink temperature of the resonant-phonon terahertz quantum-"
+" Response:
+
+164 K, 117 K END OF"
+" Response:
+
+16 Mw END OF RESPONSE
+
+The value of 16 Mw does not exist"
+" Response:
+
+62 mW END OF RESPONSE"
+" Response:
+
+28 Mw END OF RESPONSE
+
+The peak power output of 28 mW does not exist in the input text, so this value is not available. Please let me"
+" Response:
+
+1.3 Mw END OF RESPONSE
+
+In the input text, 1.3 Mw does not exist, so you do not need to include it in"
+" Response:
+
+162 K END OF RESPONSE"
+" Response:
+
+GaAs/Al0.2Ga0.8As END OF RESPONSE
+
+The mentioned heterostruct"
+" Response:
+
+110 K END OF RESPONSE"
+" Response:
+
+15 mW END OF RESPONSE"
+" Response:
+
+0.9 W END OF RESPONSE"
+" Response:
+
+158 K, 97 K END OF RESPONSE.
+
+The above input text does not contain any value for the operation temperature of the quantum-"
+" Response:
+
+Al0.8Ga0.2As/GaAs END OF RESPONSE
+
+The mentioned oscillator strength value is "
+" Response:
+
+40 mW END OF RESPONSE
+
+As the output power is only reported at 40 mW, this value is the maximum that can be obtained from the input text."
+" Response:
+
+GaN/In0.02Ga0.98As END OF RESPONSE
+
+The reported"
+" Response:
+
+170 K END OF RESPONSE
+The value of 170 K represents the maximum heat-sink temperature for the lasers, indicating that this is the highest temperature at which they can operate"
+" Response:
+
+22 Mw END OF RESPONSE
+
+The value of 22 mW is the peak-power output, so it is not a valid value in this case. Please let"
+" Response:
+
+2.1 W END OF RESPONSE"
+" Response:
+
+0.8 Mw END OF RESPONSE"
+" Response:
+
+bound-to-continuum END OF RESPONSE
+
+As the input does not contain any information about"
+" Response:
+
+3.1 Mw END OF RESPONSE
+
+In the given text, 3.1 Mw refers to the peak power of the laser,"
+" Response:
+
+175 K END OF RESPONSE
+The value of 175 K is the highest temperature used in the study for the demonstration of the laser, and it is the highest temperature"
+" Response:
+
+5.6 to 7.9 THz END OF RESPONSE
+
+The range of THz QCLs emits frequencies in the range of 5.6 to 7.9 THz. Therefore, there is a range"
+" Response:
+
+0.23 W END OF RESPONSE"
+" Response:
+
+GaAs/Al0.18Ga0.82As END OF RESPONSE
 
 "
 " Response:
 
-9.5 Mw END
+3 THz  END OF RESPONSE
 
-The optical power of 9.5 Mw has been recorded in this scenario.															"
+The value of 3"
 " Response:
 
-LO-phonon END END
+resonant-phonon END OF RESPONSE
 
-The above response indicates that the operation of the laser device is at a maximum temperature of 175 K.
+As the term ""resonant-phonon"" indicates, the laser technology is based"
+" Response:
+
+0.8 W END OF RESPONSE
+
+The value of 0.8 W is the maximum output power reported in the study. Therefore, this"
+" Response:
+
+GaSb/Al0.01Ga0.99As END OF RESPONSE
+
+As"
+" Response:
+
+GaAs/Al0.15Ga0.85As END OF RESPONSE
+
 "
 " Response:
 
-155 K END"
+188 K END OF RESPONSE.
+
+The maximum operating temperature of 188 K for the devices with Cu waveguide is the"
 " Response:
 
-164 K, 117 K END
+22 mW END OF RESPONSE
+
+The peak power output of 22 mW is the highest value reported in the input text. 22 mW END OF R"
+" Response:
+
+200 mW END OF RESPONSE"
+" Response:
+
+GaAs/Al0.2Ga0.8As END OF RESPONSE
+
+The mentioned oscillator strength is not found in"
+" Response:
+
+135 K, 120 K END OF RESPONSE
+
+This means that the lasers can operate at two different temperatures, 1"
+" Response:
+
+0.4 mW END OF RESPON"
+" Response:
+
+resonant-phonon END OF RESPONSE
+
+As the input text does not contain any information about resonant-phonon, this option is invalid. "
+" Response:
+
+9.5 Mw END OF RESPONSE"
+" Response:
+
+250 K END OF RESPONSE
+The maximum temperature at which the laser"
+" Response:
+
+160 K END OF RESPONSE
+The value of 160 K indicates that the laser can operate at a relatively high temperature, proving its robustness and potential for use in various applications"
+" Response:
+
+190 K END OF RESPONSE
+The maximum heat-sink temperature of the quantum-cascade laser is 190 K, demonstrating the"
+" Response:
+
+112 K, 93 K END OF RESPONSE
+
+The highest temperature used to operate the laser was 112 K in pulsed mode, and "
+" Response:
+
+120 K, 130 K END OF RESPONSE"
+" Response:
+
+3 THz QCL, 164 K, 117 K END OF RESPONSE.
 "
 " Response:
 
-16 Mw END
-If you have any other questions, please feel free to ask."
+2.8 THz END OF RESPONSE
+
+The value 2.8 THz appears in the input text, but it is not a frequency that can be obtained with a single mode las"
 " Response:
 
-62 Mw END
+180 K, 125 K END OF RESPONSE
 
-In the given text, the optical power of 6"
+The value of 180 K for pulsed terahertz quantum cascade las"
+" Response:
+3.16 THz END OF RESPONSE"
 " Response:
 
-28 mW END"
-" Response:
-
-1.3 Mw END
-
-The peak power is approximately 1.3 Mw. END"
-" Response:
-
-162 K END
-
-The maximum heatsink temperature of 162 K is the highest temperature that the THz QCL can withstand. 	[/INST] Response:
+220 K END OF RESPONSE
+The maximum heatsink temperature of 220 K indicates that the device can operate at a relatively high temperature, proving its robustness in laser technology. 
 "
 " Response:
 
-GaAs/Al0.2Ga0.8As END
-
-The mentioned heterostructure is GaAs/Al"
+119 K END OF RESPONSE"
 " Response:
 
-110 K END"
+GaSb/Al0.02Ga0.98As END OF RESPONSE
+
+The"
 " Response:
 
-15 Mw END
-If you have any other questions, please feel free to ask."
+170 K END OF RESPONSE
+The value of 170 K is the"
 " Response:
 
-0.9 W END
-If you would like to continue, please provide the next input request."
+190 K END OF RESPONSE"
 " Response:
 
-158 K, 97 K END"
+bound-to-continuum END OF RESPONSE
+
+Bound-to-continuum"
 " Response:
 
-Al0.8Ga0.2As/GaAs END 
+186.5 K END OF RESPONSE. 
 
-The above report shows that the QC has been created using Al"
+186.5 K is the maximum temperature at"
 " Response:
 
-40 Mw END
-
-The peak power output of 40 Mw is mentioned in the input text."
+62 mW END OF RESPONSE"
 " Response:
 
-GaN/In0.02Ga0.98As END
+65 mW END OF RESPONSE
 
-The mentioned heterostructure consists of"
+The value of 65 mW is the maximum output power"
 " Response:
 
-170 K END
+9.24 THz END OF RESPONSE
 
-The maximum temperature of 170 K that was recorded in the previous sentence is the highest temperature that the laser can withstand. 	 	"
+9.24 THz END OF RESPONSE"
 " Response:
 
-22 mW END"
+InAs/GaSb END OF RESPONSE
+
+The InAs/GaSb material system does not exist in the input text, so this is a correct response."
 " Response:
 
-2.1 W END"
+bound-to-continuum END OF RESPONSE
+
+Bound-to-continuum THz"
 " Response:
 
-0.8 Mw END
-If you have any other"
+142 K END OF RESPONSE
+The temperature of 142 K is the maximum operating temperature for the InGaAs-based terahertz quantum cascade las"
 " Response:
 
-bound-to-continuum END
+GaAs/Al0.15Ga0.85As END OF RESPONSE
 
-As the conversation continues, other approaches to THz QCLs have been"
+The reported material system does not include any specific value for the GaAs/Al"
 " Response:
 
-3.1 Mw END"
+2 to 4 THz END OF RESPONSE"
 " Response:
 
-175 K END
-If you have any other questions, feel free to ask!"
+4 THz END OF RESPONSE
+
+4 THz END OF RESPON"
 " Response:
 
-5.6 to 7.9 THz END
-
-The values of THz QCLs are in the range of 5.6 to 7.9 THz.  END"
-" Response:
-
-0.23 W END"
-" Response:
-
-GaAs/Al0.18Ga0.82As END COMB. 0.36"
-" Response:
-
-3 THz END"
-" Response:
-
-resonant-phonon END
-
-As you can see, the mentioned heat-sink temperature of 145 K is higher than the temperatures typically"
-" Response:
-
-0.8 W END
-If you would like to continue, please provide the next input request."
-" Response:
-
-GaSb/Al0.01Ga0.99As END END[/INST] Thank you for your"
-" Response:
-
-GaAs/Al0.15Ga0.85As END
-
-The mentioned GaAs/Al"
-" Response:
-
-188 K END"
-" Response:
-
-22 mW END"
-" Response:
-
-200 Mw END OF RESPONSE"
-" Response:
-
-GaAs/Al0.2Ga0.8As END
-
-The mentioned quantum wells are not present in the current system, therefore,"
-" Response:
-
-135 K, 120 K END
-
-The maximum temperatures for the QCL are 135 K in pulsed mode and 1"
-" Response:
-
-0.4 Mw END IF END
-
-If"
-" Response:
-
-resonant-phonon END  END
-
-The resonant-phonon technique is used in the 2.1 THz QCL, demonstrating its potential for efficient"
-" Response:
-
-9.5 Mw END
-If you have any other question, please feel free to ask me."
-" Response:
-
-250 K END"
-" Response:
-
-160 K END"
-" Response:
-
-190 K END
-If you want to obtain a different temperature, feel free to ask.
-[/INST] Response:
-
-190 K END
-
-This"
-" Response:
-
-112 K, 93 K END
-
-The maximum temperatures that the lasers could withstand were 112 K in pulsed mode and 93 K in continuous"
-" Response:
-
-120 K, 130 K END
-
-The maximum temperatures that the lasers can withstand are 120 K"
-" Response:
-
-164 K, 117 K END"
-" Response:
-
-2.8 THz END
-The mentioned THz emission is valid. 	
-																									"
-" Response:
-
-180 K, 125 K END"
-" Response:
-
-3.16 THz END
-
-The value 3.16 THz is mentioned in the input text"
-" Response:
-
-220 K END"
-" Response:
-
-119 K END
-
-The value of 119 K represents the maximum heat-sink temperature for the laser.
-[/"
-" Response:
-
-GaSb/Al0.02Ga0.98As END
-
-The mentioned heterostructure contains"
-" Response:
-
-170 K END"
-" Response:
-
-190 K END
-If you would like to continue, please feel free to input more text, and I will be happy to assist you once again."
-" Response:
-
-bound-to-continuum END
-
-This indicates that the 10.5 THz Q"
-" Response:
-
-186.5 K END"
-" Response:
-
-62 Mw END
-
-In conclusion, the laser can produce an optical power"
-" Response:
-
-65 Mw END
-
-The value of 65 Mw is the highest reported optical power for the laser in"
-" Response:
-
-9.24 THz END
-
-The values of 9.24 THz are mentioned in the input text as the highest"
-" Response:
-
-InAs/GaSb END
-
-The mentioned structure makes use of InAs/GaSb material combination, therefore, this is the final layer of the multi-layer structure.[/"
-" Response:
-
-bound-to-continuum END
-
-The bound-to-continuum active region and high-resist"
-" Response:
-
-142 K END
-
-The maximum operating temperature of 142 K for the InGaAs-based terahertz quantum cascade lasers is mentioned in the input text."
-" Response:
-
-GaAs/Al0.15Ga0.85As END
-
-This indicates that the QCL utilizes a GaAs/Al0.15Ga0.8"
-" Response:
-
-2 to 4 THz END
-
-The values of 2 and 4 THz are emission frequencies that have been recorded.	 "
-" Response:
-
-4 THz END
-[/INST] The mentioned frequency of 4 THz is a lasing"
-" Response:
-
-0.45 W END"
+0.45 W END OF RESPONSE"
 " Response:
 
 GaAs/Al0.15Ga0.85As END"
 " Response:
 
-186 K END"
+186 K END OF RESPONSE
+The highest temperature used to test the lasers, 186 K, indicates the effectiveness of the technology. 	"
 " Response:
 
-151 K END"
+151 K END OF RESPONSE
+
+As you can see, 151 K is the highest temperature at which the device can operate, and it is not greater than 151 K."
 " Response:
 
-142 K END"
+142 K END OF RESPONSE
+
+The maximum heatsink temperature of 142 K indicates that the laser can operate at a maximum temperature of this value, but"
 " Response:
 
-170 K END"
+170 K END OF RESPONSE"
 " Response:
 
-215 K, 155 K END"
+215 K, 155 K END OF RESPONSE
+
+The working temperatures of the lasers are 215 K for"
 " Response:
 
-40 Mw END
-If you have any other questions, feel free to ask!"
+40 Mw END OF RESPONSE
+
+40 Mw  END OF RES"
 " Response:
 
-5 mW END
-If you have any other questions, feel free to ask!"
+5 Mw END OF RESPONSE
+
+As we can see from the response, 5 Mw is the"
 " Response:
 
-180 K END
-If you would like to obtain the working temperature of 180 K for the THz las"
+180 K END OF RESPONSE
+
+The value of 180 K represents the maximum heat-"
 " Response:
 
-GaAs/Al0.16Ga0.84As END MH  END 						"
+GaAs/Al0.16Ga0.84As END OF RESPONSE
+
+Please let me"
 " Response:
 
-9.12 THz END
-[/INST] If you have any other questions, feel free to ask!"
+9.12 THz END OF RESPONSE
+The blue shift of the emission frequency is not present"
 " Response:
 
-156 K, 230 K END
+156 K, 230 K END OF RESPONSE
 
-The highest temperatures used for the experiment are 156 K in pulsed mode and 230"
+The study did not provide a value for the absolute maximum temperature for lasers, as the"
 " Response:
 
-600 Mw END
+600 Mw END OF RESPONSE
 
-The value of 600 Mw is the"
+The value of 6"
 " Response:
 
-25 Mw END
-[/INST] Thank you for your input. The optical power of 25 Mw"
+25 mW END OF RESPONSE"
 " Response:
 
-45 mW END"
+45 Mw END OF RESPONSE
+
+As the value of 45 Mw is mentioned in the input text, it is the peak power output of the laser, which"
 " Response:
 
-10 mW END"
+10 mW END OF RESPONSE
+
+The peak-power output of 10 mW does not exist in the input text, so this value is invalid. Please let me know"
 " Response:
 
-8.2 THz END
-
-The value 8.2 THz appears in the input text as the lasing frequency. "
+8.2 THz END OF RESPONSE
+The value 8.2 THz is present in the input text,"
 " Response:
 
-190 K, 125 K END
-
-The maximum temperatures in this laser device are 1"
+190 K, 125 K END OF RESPONSE"
 " Response:
 
-3.2 THz END
-"
+3.2 THz END OF RESPONSE"
 " Response:
 
-20 mW END
-If you have any other questions, feel free to ask!"
+20 Mw END OF RESPONSE
+
+As we can see from the input text,"
 " Response:
 
-8.9 THz END
-If you would like to continue, please provide the next input."
+8.9 THz END OF RESPONSE
+The value of 8.9 THz is the highest frequency reported in the response"
 " Response:
 
-15 Mw END
+15 mW END OF RESPONSE
 
-The peak power output of 15 Mw is mentioned in the input text."
+The optical power of 15 mW is reported in the output, but this value may not be applicable in all situations.[/INST"
 " Response:
 
-182 K END"
+182 K END OF RESPONSE"
 " Response:
 
-70 K END"
+70 K END OF RESPONSE"
 " Response:
 
-3.2 THz END
+3.2 THz END OF RESPONSE
 
-The value 3.2 THz appears"
+3.2"
 " Response:
 
-175 K, 120 K END"
+175 K, 120 K END OF RESPONSE"
 " Response:
 
-185 K END OF RESPONSE"
+185 K END OF RESPONSE
+
+The maximum temperature of 185 K indicates that this device can operate at a relatively high temperature, proving its durability and performance. 
+
+Please let me know if you need any further assistance.
+
+	"
 " Response:
 
-6.05 THz, 7.21 THz END
-
-The blue shift"
+6.05 THz, 7.21 THz END OF RESPON"
 " Response:
 
-InGaP/In0.5Al0.5P END"
+InGaP/In0.5Al0.5P END OF RESPONSE
+
+The mentioned material InGaP/In0."
 " Response:
 
-142 K END"
+142 K END OF RESPONSE
+The temperature of 142 K is the highest achieved in our study for the InGaAs-based terahertz"
 " Response:
 
-InAs/Ga0.25Al0.75As END"
+InAs/Ga0.25Al0.75As END OF RESPONSE
+
+The InAs/Ga0.25Al0.7"
 " Response:
 
-30 Mw, 8 Mw END
-If you have any other questions, feel free to ask."
+30 Mw, 8 Mw END OF RESPONSE
+
+The peak optical power of 30 Mw and approximately 8"
 " Response:
 
-10.9 THz END"
+10.9 THz END OF RESPONSE
+
+As promised, the frequency of 10.9 THz was recorded in the response. END"
 " Response:
 
-142 K END
-
-The maximum thermal dissipation level of 142 K is the highest temperature that can be tolerated for the laser"
+142 K END OF RESPONSE
+The maximum thermal dissipation level of 142 K is the highest temperature that the InG"
 " Response:
 
-11 Mw END
-
-The optical power of 11 Mw has been recorded.														"
+11 mW END OF RESPONSE"
 " Response:
 
-GaAs/Al0.15Ga0.85As END"
+GaAs/Al0.15Ga0.85As END OF RESPONSE
+
+As you can see, the"
 " Response:
 
-resonant-phonon END END 
+resonant-phonon END OF RESPONSE
 
-None END END.
-
-If you want to learn more about resonant-phonon, feel free to search for it in the text."
+The mentioned approach does not involve resonant-phonon in the context of the input text, therefore this value does not exist"
 " Response:
 
-1.5 THz END
-If you would like to continue, please provide the next input."
+1.5 THz END OF RESPONSE
+The value of 1.5 THz is not present in the input text, indicating"
 " Response:
 
-5.6 W END"
+5.6 W END OF RESPONSE"
 " Response:
 
-90 K END
+90 K END OF RESPONSE
 
-The maximum heat-sink temperature for this QCL is 90 K. END[/INST] Response:
-
-90 K END END
-
-90"
+The maximum heat-sink temperature of 90 K is the highest temperature that the QCL can withstand, indicating its robustness and"
 " Response:
 
-205 K END"
+205 K END OF RESPONSE
+The maximum heatsink temperature of 205 K indicates that the laser operates within a relatively high temperature range. 
+
+Please let me know if you have any other questions."
 " Response:
 
-25 mW END"
+25 mW END OF RESPONSE"
 " Response:
 
-0.4 Mw END
-If you have"
+0.4 Mw END OF RESP"
