@@ -5,12 +5,7 @@ We report terahertz quantum-cascade lasers operating predominantly at 1.90 THz w
 "~0.5 mW of peak cw power was detected from a single facet when collected with a Winston cone with a circular opening of 1.90 mm diameter and measured with a thermopile detector (ScienTech, model AC2500) placed adjacent to the cryostat window."
 "The structure, labeled OWI185-M1 (growth EA1304), was grown in GaAs/Al0.15Ga0.85As."
 "In cw operation, this device lased up to Tmax=95K."
-A 2.1 THz quantum cascade laser (QCL) based on a scatteringassisted injection and resonant-phonon depopulation design scheme is demonstrated.
-The QCL is based on a four-well period implemented in the GaAs/Al0.15Ga0.85As material system.
-"The QCL operates up to a heat-sink temperature of 144 K in pulsed-mode, which is considerably higher than that achieved for previously reported THz QCLs operating around the frequency of 2 THz."
-"At 46 K, the threshold current-density was measured as ~745 A/cm2 with a peak-power output of ~10 mW"
 "This is the so called resonant LO phonon scheme8,9 which is a combination of resonant tunneling through the collector barrier and fast longitudinal-optical (LO) phonon scattering into level 1, from where they are reinjected into the next module."
-A 2.1 THz quantum cascade laser (QCL) based on a scatteringassisted injection and resonant-phonon depopulation design scheme is demonstrated.
 "We report the development of a quantum cascade laser, at l587.2 mm, corresponding to 3.44 THz or 14.2 meV photon energy."
 The GaAs/Al0.15Ga0.85As laser structure utilizes longitudinal-optical (LO) phonon scattering for electron depopulation.
 "Laser action is obtained in pulsed mode at temperatures up to 65 K, and at 50% duty cycle up to 29 K."
@@ -39,8 +34,4 @@ A broad spectral emission range between 3.3 and 4 THz is measured.
 Terahertz quantum cascade lasers with a record output power up to 0.23 W in continuous wave mode were obtained.
 We show that the optimal 2.9-mm-long device operating at 3.11 THz has a low threshold current density of 270 A/cm2 at 15 K.
 "At B = 12 T, where the cyclotron transition is almost resonant with the LO-phonon, we recorded a maximum operating temperature of 195K for the devices with Cu waveguide."
-Operation of terahertz quantum-cascade lasers at 164 K in pulsed mode and at 117 K in continuous-wave mode.
-We report the demonstration of a terahertz quantum-cascade laser that operates up to 164 K in pulsed mode and 117 K in continuous wave mode at approximately 3.0 THz.
 The active region of this resonant-phonon laser is composed of 178 repeated periods of the 4-well module grown via molecular beam epitaxy (MBE) in the GaAs/Al 0.15Ga0.85As material system.
-We have demonstrated terahertz quantum cascade lasers that operate up to pulsed temperatures of 164 K and cw temperatures of 117 K.
-"By combining this fabrication with an improved active region design, operation of a 3 THz QCL is observed up to 164 K in pulsed mode and 117 K in cw mode."
